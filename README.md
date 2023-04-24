@@ -2,7 +2,7 @@
 
 ## Details
 
-Elegant Music Application made with the following:
+Elegant Music Player Application made with the following:
 
 > - **React.js** - one of most powerful front end frameworks
 > - **Redux** - a predictable state container for JS Apps
@@ -10,11 +10,13 @@ Elegant Music Application made with the following:
 > - **Shazam Core API** - API to define songs by uploading a file & getting detailed data on songs and artists
 
 This website also have:
+> - Modern homepage with responsive design
+> - Music player component with repeat, shuffle, previous & next song, fast forward & change volume
 > - Searching component a single page
 > - Top charts & artists component
 > - Around you to check the most played songs in your country (with Geo Ipify API)
 > - Filtering by genre
-> - Lyrics
+> - Lyrics and related songs
 
 ## Live demo
 
