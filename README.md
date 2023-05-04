@@ -20,4 +20,4 @@ This website also have:
 
 ## Live demo
 
-You can check it out on **[on this link](http://musyker.eleazarmercader.com//)**
+You can check it out on **[on this link](http://musyker.eleazarmercader.com/)**
